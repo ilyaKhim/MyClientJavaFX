@@ -1,31 +1,4 @@
-#btn:hover {
-    -fx-background-color: lightskyblue;
-}
-#btn {
-    -fx-text-fill: black;
-    -fx-font-family: "Segoe UI Semibold";
-}
 
-#imageView {
-
-}
-
-.text-area .content {
-    -fx-background-image: url("/belka.png");
-    -fx-background-size: contain;
-    -fx-background-color: lightpink;
-    -fx-content-display: fixed;
-    -fx-background-repeat: stretch;
-
-}
-/*.root{
-    -fx-background-image: url("/belka.png");
-}*/
-
-
-
-/*Я пытался установить картинку статично через background-attachment, но такого параметра почему-то нет
-Напишите, если несложно, как нужно было сделать правильно, чтобы картинка не двигалась*/
 
 
 
